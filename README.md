@@ -1,1 +1,1 @@
-*<h1 align=center>PHYL</h1>*
+*<h1>PHYL</h1>*
